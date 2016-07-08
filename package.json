@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alexmbarton/nodelocalisation/issues"
   },
-  "homepage": "https://github.com/alexmbarton/nodelocalisation#readme"
+  "homepage": "https://github.com/alexmbarton/nodelocalisation#readme",
+  "dependencies": {
+    "localize": "^0.4.7"
+  }
 }
