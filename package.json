@@ -1,0 +1,23 @@
+{
+  "name": "nodelocale",
+  "version": "1.0.0",
+  "description": "Messing with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmbarton/nodelocalisation.git"
+  },
+  "keywords": [
+    "Node",
+    "localization"
+  ],
+  "author": "AB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmbarton/nodelocalisation/issues"
+  },
+  "homepage": "https://github.com/alexmbarton/nodelocalisation#readme"
+}
